@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    <!-- banner定义属性-->
+    <declare-styleable name="LuBanner">
+        <!-- 是否显示指示器-->
+        <attr name="hasIndicator" format="boolean"/>
+
+
+        
+        
+        
+    </declare-styleable>
+    
+    
+    
+    
+</resources>
