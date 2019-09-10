@@ -10,6 +10,9 @@ package cn.enjoytoday.banner.enums
 enum class IndicatorType {
     CIRCLE, //圆环
     ROUND,//圆形
+    TRIANGLE,  //三角形
+    RECTANGLE //矩形
+
 
 
 }
